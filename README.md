@@ -1,3 +1,7 @@
+# \[DEPRECATED\] Use https://github.com/UOFA-INTRO-NLP-F21/assignment1-starter instead
+
+
+
 # Intro to NLP - Assignment 1
 
 ## README file
